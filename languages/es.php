@@ -46,6 +46,7 @@ $spanish = array(
 		'agb:span:linkedin' => 'LinkedIn',
 		'agb:span:blog' => 'Mi Blog',
 		'agb:span:elgg' => 'La comunidad de elgg',
+		'agb:span:github' => 'github',
 		
 		'agb:link:redvabel' => 'http://redvabel.com/pg/profile/angel',
 		'agb:link:twitter' => 'http://twitter.com/angel_wrt',
@@ -53,6 +54,7 @@ $spanish = array(
 		'agb:link:linkedin' => 'http://www.linkedin.com/pub/angel-gabriel-vargas-beltran/38/908/189',
 		'agb:link:blog' => 'http://redvabel.com/pg/blog/owner/angel',
 		'agb:link:elgg' => 'http://community.elgg.org/pg/profile/vabel',
+		'agb:link:github' => 'https://github.com/Angel-Gabriel',
 
 		);
 		
